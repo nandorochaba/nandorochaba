@@ -1,114 +1,149 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/wMWr4PYt/Chat-GPT-Image-31-de-jul-de-2026-13-30-13.png" width="100%" alt="Sanyr Banner">
-
-<br><br>
-
-<img src="https://i.postimg.cc/TPpnn4tR/SANYR.png" width="140" alt="Sanyr Logo">
+<img src="https://i.postimg.cc/TPpnn4tR/SANYR.png" width="90" alt="Sanyr Logo"/>
 
 # Fernando Rocha
 
-### Software Developer • SaaS Builder • Automation Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Sanyr...;Software+Engineer;Creating+Modern+SaaS;Automation+Engineer;Artificial+Intelligence;Always+Learning"/>
+### Founder @ Sanyr Tecnologia • Full Stack Software Engineer
 
 <p>
-Building products that automate businesses, simplify operations and create real value through technology.
+Building modern software focused on <strong>Artificial Intelligence</strong>,
+<strong>SaaS</strong>,
+<strong>Automation</strong> and
+<strong>Cloud Solutions</strong>.
 </p>
 
-<p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Sanyr...;Full+Stack+Software+Engineer;Building+Scalable+Products;Artificial+Intelligence;Automation+Engineer;Always+Learning."/>
+
+<br><br>
 
 <a href="https://github.com/nandorochaba">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fernandorochabarbosa/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://sanyr.com.br/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://app.sanyr.com.br/">
-<img src="https://img.shields.io/badge/Sanyr_App-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sanyr_App-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/sanyr.tecnologia/">
-<img src="https://img.shields.io/badge/Sanyr-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sanyr-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/nandoxzyz/">
-<img src="https://img.shields.io/badge/Personal-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nandorochaba&style=for-the-badge&color=181717"/>
 
 </div>
 
 ---
 
-# 🖤 About Me
+# 👋 About Me
 
-```typescript
-const fernando = {
-    company: "Sanyr Tecnologia",
-    role: "Software Developer",
-    country: "Brazil 🇧🇷",
+```yaml
+Name: Fernando Rocha
 
-    currentlyBuilding: "Sanyr",
+Role:
+  Founder @ Sanyr Tecnologia
 
-    interests: [
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Automation",
-        "Cloud Computing",
-        "Scalable SaaS",
-        "System Design"
-    ],
+Location:
+  Brazil 🇧🇷
 
-    mission: "Build software that creates real impact."
-}
+Main Focus:
+  • SaaS
+  • Artificial Intelligence
+  • Automation
+  • Cloud
+  • Software Architecture
+
+Mission:
+  Build software that creates real impact.
 ```
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Featured Project
 
-### 🖤 Sanyr
+# 🖤 Sanyr
 
-A complete SaaS platform built to simplify scheduling and business management.
+A modern SaaS platform built to simplify business management.
 
 ### Main Features
 
 - 📅 Smart Scheduling
-- 👥 Customer Management
+- 🤖 AI Automations
 - 💬 WhatsApp Integration
-- 🔔 Automatic Reminders
+- 👥 Customer Management
 - 💳 Subscription Management
 - 📊 Dashboard & Reports
-- 🤖 AI Automations
-- ⚡ High Performance
+- ☁️ Cloud Infrastructure
+- 🔔 Smart Notifications
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,cs,dotnet,prisma,postgres,mysql,mongodb,redis,docker,linux,git,github,aws,cloudflare,vercel,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,dotnet,postgres,mysql,docker,aws,git,github,linux,figma&theme=dark"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📂 Featured Repositories
+
+### 🖤 Sanyr
+
+Complete SaaS platform focused on scheduling and business management.
+
+---
+
+### 💰 Finance App
+
+Personal finance management platform.
+
+---
+
+### 🤖 AI Automation
+
+Automation and Artificial Intelligence integrations.
+
+---
+
+# 🧠 Engineering Principles
+
+- Clean Code
+- SOLID
+- Clean Architecture
+- REST APIs
+- Authentication & Authorization
+- Performance Optimization
+- Scalable Systems
+- Secure Applications
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nandorochaba&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandorochaba&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandorochaba&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandorochaba&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -120,7 +155,7 @@ A complete SaaS platform built to simplify scheduling and business management.
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -130,81 +165,49 @@ A complete SaaS platform built to simplify scheduling and business management.
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Snake
 
-- 🏗️ Building **Sanyr**
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Infrastructure
-- 🧩 Clean Architecture
-- ⚡ Performance Optimization
-- 🔐 Authentication & Security
-- 📈 Scalable Products
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nandorochaba/nandorochaba/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
 - Domain-Driven Design
-- Clean Architecture
-- Microservices
 - Kubernetes
-- .NET
-- Go
 - CI/CD
-- Event-Driven Architecture
+- Event Driven Architecture
+- Go
+- Advanced .NET
+- Distributed Systems
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/nandorochaba">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fernandorochabarbosa/">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/nandoxzyz/">
-<img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sanyr.tecnologia/">
-<img src="https://img.shields.io/badge/Sanyr-181717?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://sanyr.com.br/">
-<img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://app.sanyr.com.br/">
-<img src="https://img.shields.io/badge/Sanyr_App-181717?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
 ---
 
-# 🐍 Contribution Snake
+## 📫 Let's Connect
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nandorochaba/nandorochaba/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</p>
----
-
-# 💭 Philosophy
-
-> **"Great software isn't just built to work. It's designed to evolve, scale, and create lasting value."**
-
----
+> Open to collaborations, freelance projects, startup opportunities and innovative ideas.
 
 <div align="center">
 
-### 🚀 Building the future, one commit at a time.
+[LinkedIn](https://www.linkedin.com/in/fernandorochabarbosa/) •
+[Website](https://sanyr.com.br/) •
+[Sanyr App](https://app.sanyr.com.br/)
 
-<img src="https://komarev.com/ghpvc/?username=nandorochaba&label=Profile%20Views&style=for-the-badge&color=000000"/>
+</div>
+
+---
+# 💭 Philosophy
+
+> *"Software should solve problems, scale with confidence and generate real value."*
+
+---
+
+### Code. Build. Scale. Repeat.
 
 </div>
